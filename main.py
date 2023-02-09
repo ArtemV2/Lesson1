@@ -22,7 +22,7 @@ def logicalc(operation):
     else:
         if lbl['text'] == '0':
             lbl['text'] = ''
-    lbl['text'] = lbl['text']+operation
+        lbl['text'] = lbl['text']+operation
 
 
 
